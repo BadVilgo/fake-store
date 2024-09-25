@@ -1,0 +1,10 @@
+.search-bar {
+  width: 48%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+
+  @media (max-width: 600px) {
+    width: 100%;
+  }
+}
